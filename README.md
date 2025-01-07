@@ -15,3 +15,6 @@ The Python Code Explainer is a web application designed to help users understand
 * Generative AI Configuration: The Generative AI model is configured with the API key.
 * Completion Function: The get_completion function takes a code snippet as input, constructs a prompt, and uses the Generative AI model to generate a detailed explanation of the code.
 * Streamlit Interface: The Streamlit interface allows users to enter their code snippets and view the explanations. The interface includes a text area for code input and a button to trigger the explanation generation.
+
+### Conclusion
+The Python Code Explainer is a powerful tool for anyone looking to understand Python code better. By leveraging Google's Generative AI, the application provides detailed and accurate explanations, making it an invaluable resource for learners and developers alike.
